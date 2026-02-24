@@ -63,13 +63,10 @@
 
 <br />
 
-<details>
-  <summary>GitHub Metrics</summary>
-
+<p align="center">
   <a href="https://github.com/lowlighter/metrics">
     <img src="/github-metrics.svg" alt="Metrics" width="480" />
   </a>
-
-</details>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%" />
