@@ -68,4 +68,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=c2nprds&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="95%" />
 </p>
 
+<br />
+
+<details>
+  <summary>GitHub Metrics</summary>
+
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="/github-metrics.svg" alt="Metrics" width="100%" />
+  </a>
+
+</details>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%" />
