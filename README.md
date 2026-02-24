@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=c2nprds&theme=transparent" height="170px" />
+    <img src="https://raw.githubusercontent.com/c2nprds/c2nprds/master/profile-summary-card-output/default/3-stats.svg" height="170px" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com?user=c2nprds&theme=transparent&hide_border=true" height="170px" />
@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c2nprds&theme=transparent" width="95%" />
+    <img src="https://raw.githubusercontent.com/c2nprds/c2nprds/master/profile-summary-card-output/default/0-profile-details.svg" width="95%" />
   </a>
 </p>
 
@@ -46,10 +46,10 @@
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c2nprds&theme=transparent" height="170px" />
+    <img src="https://raw.githubusercontent.com/c2nprds/c2nprds/master/profile-summary-card-output/default/1-repos-per-language.svg" height="170px" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c2nprds&theme=transparent" height="170px" />
+    <img src="https://raw.githubusercontent.com/c2nprds/c2nprds/master/profile-summary-card-output/default/2-most-commit-language.svg" height="170px" />
   </a>
 </p>
 
