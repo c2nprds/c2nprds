@@ -26,20 +26,31 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c2nprds&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c2nprds&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170px" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=c2nprds&theme=github_dark" height="170px" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=c2nprds&theme=github-dark-blue&hide_border=true&background=0D1117" height="170px" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=c2nprds&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c2nprds&theme=github_dark" width="95%" />
+  </a>
 </p>
 
 <br />
 
-## Trophy
+## Languages
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=c2nprds&theme=darkhub&no-frame=true&no-bg=true&column=7" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c2nprds&theme=github_dark" height="170px" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c2nprds&theme=github_dark" height="170px" />
+  </a>
 </p>
 
 <br />
