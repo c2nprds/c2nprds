@@ -27,16 +27,16 @@
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=c2nprds&theme=github_dark" height="170px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=c2nprds&theme=transparent" height="170px" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=c2nprds&theme=github-dark-blue&hide_border=true&background=0D1117" height="170px" />
+    <img src="https://streak-stats.demolab.com?user=c2nprds&theme=transparent&hide_border=true" height="170px" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c2nprds&theme=github_dark" width="95%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c2nprds&theme=transparent" width="95%" />
   </a>
 </p>
 
@@ -46,10 +46,10 @@
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c2nprds&theme=github_dark" height="170px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c2nprds&theme=transparent" height="170px" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c2nprds&theme=github_dark" height="170px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c2nprds&theme=transparent" height="170px" />
   </a>
 </p>
 
@@ -65,7 +65,7 @@
 ## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c2nprds&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c2nprds&bg_color=ffffff&color=58a6ff&line=58a6ff&point=333333&area=true&area_color=58a6ff&hide_border=true" width="95%" />
 </p>
 
 <br />
